@@ -1,4 +1,4 @@
-<p align="left">✔ Web 2.0<br>☑️ UX/UI research & design<br>☑️ Frontend development: React.js, Next.js, Vue.js, Svelte, Typescript<br>☑️ Backend development: Python (Django), Node.js, Laravel, NestJS, WordPress, PHP<br>☑️ Mobile app development: React Native<br>☑️ Desktop app: Electron.js<br><br>✔ Cloud & Databases<br>☑️ Azure, AWS, Firebase, MongoDB, MySQL, Supabase<br><br>✔ Web 3.0 & Blockchain Solutions<br>☑️ Chains - Ethereum, EOS, Solana, Binance, Polygon<br>☑️ Smart contracts = ERC20<br>☑️ DeX's - Pancake Swap, Uniswap, Sushi Swap<br>☑️ DAO - From smart contract development to DAO governance<br>☑️ dApps - NFT minting buy, sell OR digital asset buy / sell OR Identity management</p>
+<p align="left">✔ Web 2.0<br>☑️ UX/UI research & design<br>☑️ Frontend development: React.js, Next.js, Vue.js, Svelte, Typescript<br>☑️ Backend development: Python (Django), .Net (Web API), Node.js, Laravel, NestJS, WordPress, PHP<br>☑️ Mobile app development: React Native<br>☑️ Desktop app: Electron.js<br><br>✔ Cloud & Databases<br>☑️ Azure, AWS, Firebase, MongoDB, MySQL, Supabase<br><br>✔ Web 3.0 & Blockchain Solutions<br>☑️ Chains - Ethereum, EOS, Solana, Binance, Polygon<br>☑️ Smart contracts = ERC20<br>☑️ DeX's - Pancake Swap, Uniswap, Sushi Swap<br>☑️ DAO - From smart contract development to DAO governance<br>☑️ dApps - NFT minting buy, sell OR digital asset buy / sell OR Identity management</p>
 
 ###
 
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
