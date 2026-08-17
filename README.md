@@ -1,4 +1,60 @@
-<p align="left">✔ Web 2.0<br>☑️ UX/UI research & design<br>☑️ Frontend development: React.js, Next.js, Vue.js, Svelte, Typescript<br>☑️ Backend development: Python (Django), .Net (Web API), Node.js, Laravel, NestJS, WordPress, PHP<br>☑️ Mobile app development: React Native<br>☑️ Desktop app: Electron.js<br><br>✔ Cloud & Databases<br>☑️ Azure, AWS, Firebase, MongoDB, MySQL, Supabase<br><br>✔ Web 3.0 & Blockchain Solutions<br>☑️ Chains - Ethereum, EOS, Solana, Binance, Polygon<br>☑️ Smart contracts = ERC20<br>☑️ DeX's - Pancake Swap, Uniswap, Sushi Swap<br>☑️ DAO - From smart contract development to DAO governance<br>☑️ dApps - NFT minting buy, sell OR digital asset buy / sell OR Identity management</p>
+# Hi, I'm Mustafa Zaman 👋
+
+### Senior Full-Stack Engineer | Frontend Engineer
+
+I build production web and mobile applications using the JavaScript/TypeScript ecosystem, with a strong focus on scalable SaaS products, modern frontend architecture, secure backend systems, and third-party integrations.
+
+## Core Stack
+
+**Frontend**
+React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • TanStack Query
+
+**Backend**
+Node.js • Express.js • REST APIs • GraphQL • WebSockets
+
+**Database**
+PostgreSQL • Supabase • MySQL • MongoDB
+
+**Mobile**
+React Native • Expo
+
+**Cloud & Delivery**
+AWS • Docker • Git • CI/CD • Vercel
+
+**Testing**
+Playwright • Jest • Unit Testing • E2E Testing
+
+## What I Work On
+
+- Full-stack SaaS applications
+- Modern React / Next.js frontends
+- Multi-tenant platforms
+- Secure authentication and authorization
+- REST API and third-party integrations
+- Real-time systems and communication workflows
+- React Native / Expo mobile applications
+- Database architecture and access control
+- Automation and AI-powered integrations
+- Web3 and wallet integrations when required
+
+## Engineering Focus
+
+My main focus is building reliable production products across the complete application lifecycle — frontend, backend, database design, APIs, security, testing, debugging, deployment, and performance.
+
+I have worked across SaaS, healthcare, LMS, marketplaces, communication platforms, automation systems, and Web3 products.
+
+## Primary Technologies
+
+`TypeScript` `JavaScript` `React` `Next.js`
+`Node.js` `Express`
+`PostgreSQL` `Supabase`
+`React Native` `Expo`
+`AWS` `Docker`
+`Playwright` `Jest`
+
+## Additional Experience
+
+FastAPI • Python • Laravel • PHP • WebRTC • WebSockets • Web3
 
 ###
 
